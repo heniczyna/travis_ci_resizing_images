@@ -2,7 +2,7 @@
 
 # *Resizing images with Travis CI*
 * Script resizes image to 25% of the original size
-* Put this script in your favourite directory
+* Put this script *travis_ci_resizing_images.py* in your favourite directory
 * In chosen directory create an additional folder called *to_resize* with images to resize
 * Run the script
 * Tested with Python 3.7.2 64-bit
