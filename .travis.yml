@@ -1,5 +1,8 @@
 language: python
 python:
   - "3.7.2"
+#command to install dependencies
+install:
+  - pip install opencv-python
 script:
   - python travis_ci_resizing_images.py
